@@ -1,0 +1,20 @@
+[
+  {
+    "name": "latihan",
+    "path": "/latihan",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan.vue",
+    "chunkName": "pages/latihan"
+  },
+  {
+    "name": "latihan2",
+    "path": "/latihan2",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\latihan2.vue",
+    "chunkName": "pages/latihan2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\surya\\\\Documents\\\\LatihanNuxt\\\\LatihanNuxt-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
